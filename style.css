@@ -1,0 +1,17 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(24, 170, 138);
+    background-color: rgb(136, 238, 238);
+
+    font-size: 46px;
+    text-align: center;
+    padding-top: 14px;
+}
+
+
+.box:hover{
+    background-color: rgb(174, 221, 243);
+    cursor: pointer;
+
+}
